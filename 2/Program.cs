@@ -25,7 +25,7 @@ namespace _2
             double each_part = total_bill / split_number;
 
             // Show the result
-            Console.WriteLine(Environment.NewLine + $"The total bill was ${Math.Round(total_bill,2)} and each person should pay ${Math.Round(each_part, 2)}");
+            Console.WriteLine(Environment.NewLine + $"The total bill was ${Math.Round(total_bill, 2)} and each person should pay ${Math.Round(each_part, 2)}");
         }
     }
 }
