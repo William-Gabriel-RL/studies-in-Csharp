@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Secret Auction", "9. Sec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Calculator", "9. Calculator\9. Calculator.csproj", "{B127BB7F-5A70-4551-BDB3-A8AD036C16EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Blackjack Game", "10. Blackjack Game\10. Blackjack Game.csproj", "{DFBCAD5E-A7ED-4906-9AFB-B1026789D3EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B127BB7F-5A70-4551-BDB3-A8AD036C16EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B127BB7F-5A70-4551-BDB3-A8AD036C16EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B127BB7F-5A70-4551-BDB3-A8AD036C16EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBCAD5E-A7ED-4906-9AFB-B1026789D3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBCAD5E-A7ED-4906-9AFB-B1026789D3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBCAD5E-A7ED-4906-9AFB-B1026789D3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBCAD5E-A7ED-4906-9AFB-B1026789D3EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
